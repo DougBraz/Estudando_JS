@@ -1,1 +1,0 @@
-alert ("execultado JS no navegador")
